@@ -1,0 +1,23 @@
+{
+  "name": "starscream",
+  "version": "1.0.0",
+  "description": "Used to gather crypto information from https://www.coingecko.com/api/documentations/v3#/coins/get_coins__id_",
+  "main": "starscream.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "starscream": "^0.1.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SuperWhiteNoise/Starscream"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam \"fixxxer\" White",
+  "license": "ISC"
+}
